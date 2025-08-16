@@ -16,7 +16,6 @@ I’m a backend engineer with 5+ years of experience designing and building robu
 - [LinkedIn](https://www.linkedin.com/in/genzonline/)
 - [Telegram](https://t.me/genzonline)
 - [GitHub](https://github.com/genz0nline)
-- [Personal website](https://genzonline.com)
 ---
 
 💡 *Currently open to remote backend engineering opportunities.*  
