@@ -1,20 +1,22 @@
-## Hi 👋, I'm Genzonline!
-<h3 align="center">I am actively looking for opportunities as a python backend engineer. </h3>
+# 👋 Hi, I’m genzonline
 
-[![Linkedin: genzonline](https://img.shields.io/badge/-genzonline-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/genzonline/)](https://www.linkedin.com/in/genzonline/)
-[![Telegram: genzonline](https://img.shields.io/badge/-genzonline-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/genzonline)](https://t.me/genzonline)
+**Software Engineer | Python Backend | Django | Data Pipelines**  
 
-<!--
-**ADzhafarov/ADzhafarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a backend engineer with 5+ years of experience designing and building robust software systems — from **enterprise-scale Django applications** to **ETL pipelines** and **data warehouses**. I enjoy solving complex problems, writing maintainable code, and working on projects that demand both technical depth and clean architecture.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Current Interests
+- Exploring **C** through small pet projects (HTTP servers, networking tools, CLI apps) to deepen my understanding of **systems programming**.  
+- Building bridges between **high-level backend development** and **low-level systems knowledge** for long-term growth.  
+
+---
+
+## 🌍 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/genzonline/)
+- [Telegram](https://t.me/genzonline)
+- [GitHub](https://github.com/genz0nline)
+- [Personal website](https://genzonline.com)
+---
+
+💡 *Currently open to remote backend engineering opportunities.*  
