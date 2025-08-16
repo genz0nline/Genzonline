@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Genzonline!
-<h3 align="center">I am actively looking for opportunities as a backend engineer. </h3>
+<h3 align="center">I am actively looking for opportunities as a python backend engineer. </h3>
 
 [![Linkedin: genzonline](https://img.shields.io/badge/-genzonline-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/genzonline/)](https://www.linkedin.com/in/genzonline/)
 [![Telegram: genzonline](https://img.shields.io/badge/-genzonline-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/genzonline)](https://t.me/genzonline)
